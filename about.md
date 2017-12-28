@@ -12,6 +12,7 @@ Bharath's graduate education was supported by a [Hertz Fellowship](http://hertzf
 ### Essays
 - [Learning to Learn](http://tingelam.github.io/learning-to-learn/)
 - [研究中paper阅读方法](http://tingelam.github.io/研究中paper阅读方法/)
+- [Aim-at-research](http://tingelam.github.io/Aim-at-research/)
 
 ### Contact
 
