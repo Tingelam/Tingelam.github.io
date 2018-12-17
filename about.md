@@ -12,6 +12,7 @@ Tingelam 毕业于重庆邮电大学，曾就职于云从科技，负责深度�
 
 ### Essays
 - [Learning to Learn](http://tingelam.github.io/learning-to-learn/)
+- [天池瑕疵识别大赛总结](http://tingelam.github.io/天池瑕疵识别大赛总结/)
 
 ### Contact
 
