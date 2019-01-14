@@ -26,13 +26,10 @@ layout: post
 
 
 [^1]: Deng, Jiankang, Jia Guo, and Stefanos Zafeiriou. "Arcface: Additive angular margin loss for deep face recognition." *arXiv preprint arXiv:1801.07698* (2018).
-[^2]: G. B. Huang, M. Ramesh, T. Berg, and E. Learned-Miller.
+[^2]: G. B. Huang, M. Ramesh, T. Berg, and E. Learned-Miller. Labeled faces in the wild: A database for studying face
 
-Labeled faces in the wild: A database for studying face
 recognition in unconstrained environments. Technical report, Technical Report 07-49, University of Massachusetts,
 Amherst, 2007. 
 
 [^3]: J. Deng, Y. Zhou, and S. Zafeiriou. Marginal loss for deep face recognition. In CVPRW, 2017.
-
-[^4]: S. Sengupta, J.-C. Chen, C. Castillo, V. M. Patel, R. Chellappa, and D. W. Jacobs. Frontal to profile face verification
-in the wild. In WACV, pages 1–9, 2016.
+[^4]: S. Sengupta, J.-C. Chen, C. Castillo, V. M. Patel, R. Chellappa, and D. W. Jacobs. Frontal to profile face verification in the wild. In WACV, pages 1–9, 2016.
